@@ -1,32 +1,32 @@
-Task 1 – Rule-Based Chatbot 🤖
+**Task 1 – Rule-Based Chatbot 🤖**
 
-This project was developed as part of my Artificial Intelligence Internship at CodSoft. It involves building a simple yet effective chatbot that interacts with users through predefined rules and conditional logic, without relying on advanced NLP libraries or machine learning models.
+This project was developed as part of my **Artificial Intelligence Internship at CodSoft**. It involves building a simple yet effective chatbot that interacts with users through predefined rules and conditional logic, without relying on advanced NLP libraries or machine learning models.
 
 ---
 
-🎯 Objective
+**🎯 Objective**
 
 To design and implement a basic chatbot using Python that responds to user queries based on keyword matching and rule-based logic. The goal is to simulate a conversational agent using traditional programming techniques.
 
 ---
 
-📂 Dataset
+**📂 Dataset**
 
 This project does not use a dataset. All responses are generated based on predefined rules embedded in the script or stored in a separate file (e.g., JSON).
 
 ---
 
-🛠 Technologies Used
+**🛠 Technologies Used**
 
-- Python** – Primary programming language
-- If-Else Logic & Pattern Matching – For decision-making
-- JSON(Optional) – For modular response rules
+- **Python** – Primary programming language
+- **If-Else Logic & Pattern Matching** – For decision-making
+- **JSON(Optional)** – For modular response rules
 - **Regular Expressions (Regex)** *(Optional)* – For text matching
 - **Command-Line Interface** – For running the chatbot in the terminal
 
 ---
 
-🔄 Workflow
+**🔄 Workflow**
 
 1. Accept user input from the terminal.
 2. Match the input against a set of predefined patterns or keywords.
@@ -35,7 +35,7 @@ This project does not use a dataset. All responses are generated based on predef
 
 ---
 
-💻 Features
+**💻 Features**
 
 - Handles basic greetings, FAQs, and fallback responses.
 - Modular design for easy rule expansion.
@@ -44,7 +44,7 @@ This project does not use a dataset. All responses are generated based on predef
 
 ---
 
-## 📈 Sample Interaction
+**📈 Sample Interaction**
 
 text
 User: Hello
@@ -72,12 +72,15 @@ python chatbot.py
 👉 [Link to demo video – You can upload to YouTube or LinkedIn and paste here]
 
 👨‍💻 Author: A Gokul Krishna
+
 📧 Email: juug24bcait44162@jainuniversity.ac.in
-🔗 LinkedIn: [https://www.linkedin.com/in/a-gokul-krishna-62ba92331/]
+
+🔗 LinkedIn: https://www.linkedin.com/in/a-gokul-krishna-62ba92331/
+
 🐙 GitHub: https://github.com/AGOKULKRISHNA
 
-**🔖 Hashtags**
+**🔖 Hashtags:**
 #CodSoft #ArtificialIntelligence #Python #Chatbot #RuleBasedAI #InternshipProject #AI #SimpleChatbot
 
-Special thanks to CodSoft for the opportunity to gain hands-on experience in AI through practical and creative tasks.
+Special thanks to **CodSoft** for the opportunity to gain hands-on experience in AI through practical and creative tasks.
 
