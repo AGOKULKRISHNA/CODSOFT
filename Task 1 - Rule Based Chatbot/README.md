@@ -71,13 +71,12 @@ python chatbot.py
 🎥 Demo Video
 👉 [Link to demo video – You can upload to YouTube or LinkedIn and paste here]
 
-👨‍💻 Author
-A Gokul Krishna
+👨‍💻 Author: A Gokul Krishna
 📧 Email: juug24bcait44162@jainuniversity.ac.in
 🔗 LinkedIn: [https://www.linkedin.com/in/a-gokul-krishna-62ba92331/]
 🐙 GitHub: https://github.com/AGOKULKRISHNA
 
-🔖 Hashtags
+**🔖 Hashtags**
 #CodSoft #ArtificialIntelligence #Python #Chatbot #RuleBasedAI #InternshipProject #AI #SimpleChatbot
 
 Special thanks to CodSoft for the opportunity to gain hands-on experience in AI through practical and creative tasks.
