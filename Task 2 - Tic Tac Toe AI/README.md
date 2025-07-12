@@ -87,8 +87,11 @@ python tictactoe.py
 ------------------------------------
 
 **👨‍💻 Author:**A Gokul Krishna 
+
 **📧 Email**: juug24bcait44162@jainuniversity.ac.in 
+
 **🔗 GitHub**: https://github.com/AGOKULKRISHNA 
+
 **🔗 LinkedIn**: [www.linkedin.com/in/your-profile]
 
 ------------------------------------
