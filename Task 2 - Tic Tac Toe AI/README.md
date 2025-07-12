@@ -46,7 +46,7 @@ To implement the classic Tic Tac Toe game with an unbeatable AI using the **Mini
 
 ## 🎮 Sample Gameplay
 
-
+```text
 You are X | AI is O
 
  1 | 2 | 3
@@ -73,7 +73,6 @@ Your move (1-9): 1
 ...
 Winner: AI (O)
 
------------------
 
 
 **🚀 How to Run**
