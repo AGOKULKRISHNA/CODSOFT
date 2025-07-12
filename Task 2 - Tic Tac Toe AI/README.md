@@ -84,9 +84,12 @@ git clone https://github.com/AGOKULKRISHNA/CODSOFT
 cd "CODSOFT/Task 2 - Tic Tac Toe AI"
 
 
+
 **2.Run the script:**
 
 python tictactoe.py
+
+
 
 **3.Follow the prompts to play the game in your terminal.**
 
