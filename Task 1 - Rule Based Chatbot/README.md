@@ -56,6 +56,8 @@ Bot: AI stands for Artificial Intelligence. It refers to the simulation of human
 User: Bye
 Bot: Goodbye! Have a nice day.
 
+---------------
+
 **🚀 How to Run**
 
 1.Clone the repository or download this folder:
@@ -69,6 +71,8 @@ cd CODSOFT/"Task 1 - Rule Based Chatbot"
 
 python chatbot.py
 
+----------------
+
 **🎥 Demo Video**
 👉 [Link to demo video – You can upload to YouTube or LinkedIn and paste here]
 
@@ -80,8 +84,12 @@ python chatbot.py
 
 🐙 GitHub: https://github.com/AGOKULKRISHNA
 
+-------------
+
 **🔖 Hashtags:**
 #CodSoft #ArtificialIntelligence #Python #Chatbot #RuleBasedAI #InternshipProject #AI #SimpleChatbot
+
+--------------
 
 *Special thanks to **CodSoft** for the opportunity to gain hands-on experience in AI through practical and creative tasks.*
 
