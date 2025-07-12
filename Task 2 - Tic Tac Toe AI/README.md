@@ -73,7 +73,8 @@ Your move (1-9): 1
 ...
 Winner: AI (O)
 
----------------------------------
+```
+------------------------
 
 **🚀 How to Run**
 
@@ -92,13 +93,13 @@ python tictactoe.py
 
 **3.Follow the prompts to play the game in your terminal.**
 
------------------
+----------------------------
 
 **📹 Demo Video**
 
 👉 [Coming Soon – Add YouTube or LinkedIn video link here]
 
-----------------
+---------------------------
 
 **👨‍💻 Author:**A Gokul Krishna 
 
@@ -108,13 +109,13 @@ python tictactoe.py
 
 🔗 LinkedIn: [www.linkedin.com/in/your-profile]
 
-------------------
+-----------------------------
 
 **🔖 Hashtags**
 
 #CodSoft #ArtificialIntelligence #Python #TicTacToe #Minimax #UnbeatableAI #TerminalGame #Internship
 
-----------------
+-----------------------------
 
 ***Special thanks to CodSoft for providing a hands-on learning opportunity through real-world AI projects.***
 
