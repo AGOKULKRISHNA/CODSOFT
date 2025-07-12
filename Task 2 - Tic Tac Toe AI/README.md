@@ -70,6 +70,7 @@ Your move (1-9): 1
    | O |  
 -----------
    |   | O
+
 ...
 Winner: AI (O)
 
@@ -81,6 +82,7 @@ Winner: AI (O)
 **1.Clone the repository or download the project folder:**
 
 git clone https://github.com/AGOKULKRISHNA/CODSOFT
+
 cd "CODSOFT/Task 2 - Tic Tac Toe AI"
 
 
@@ -101,7 +103,7 @@ python tictactoe.py
 
 ---------------------------
 
-**👨‍💻 Author:**A Gokul Krishna 
+**👨‍💻 Author:** A Gokul Krishna 
 
 📧 Email: juug24bcait44162@jainuniversity.ac.in
 
