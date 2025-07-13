@@ -109,7 +109,7 @@ python tictactoe.py
 
 🔗 GitHub: https://github.com/AGOKULKRISHNA
 
-🔗 LinkedIn: [www.linkedin.com/in/your-profile]
+🔗 LinkedIn: https://www.linkedin.com/in/a-gokul-krishna-62ba92331/
 
 -----------------------------
 
