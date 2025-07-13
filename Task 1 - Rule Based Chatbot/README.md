@@ -1,22 +1,22 @@
-**Task 1 – Rule-Based Chatbot 🤖**
+## Task 1 – Rule-Based Chatbot 🤖
 
 This project was developed as part of my **Artificial Intelligence Internship at CodSoft**. It involves building a simple yet effective chatbot that interacts with users through predefined rules and conditional logic, without relying on advanced NLP libraries or machine learning models.
 
 ---
 
-**🎯 Objective**
+## 🎯 Objective
 
 To design and implement a basic chatbot using Python that responds to user queries based on keyword matching and rule-based logic. The goal is to simulate a conversational agent using traditional programming techniques.
 
 ---
 
-**📂 Dataset**
+## 📂 Dataset
 
 This project does not use a dataset. All responses are generated based on predefined rules embedded in the script or stored in a separate file (e.g., JSON).
 
 ---
 
-**🛠 Technologies Used**
+## 🛠 Technologies Used
 
 - **Python** – Primary programming language
 - **If-Else Logic & Pattern Matching** – For decision-making
@@ -26,7 +26,7 @@ This project does not use a dataset. All responses are generated based on predef
 
 ---
 
-**🔄 Workflow**
+## 🔄 Workflow
 
 1. Accept user input from the terminal.
 2. Match the input against a set of predefined patterns or keywords.
@@ -35,7 +35,7 @@ This project does not use a dataset. All responses are generated based on predef
 
 ---
 
-**💻 Features**
+## 💻 Features
 
 - Handles basic greetings, FAQs, and fallback responses.
 - Modular design for easy rule expansion.
@@ -44,7 +44,7 @@ This project does not use a dataset. All responses are generated based on predef
 
 ---
 
-**📈 Sample Interaction**
+## 📈 Sample Interaction
 
 text
 User: Hello
@@ -58,7 +58,7 @@ Bot: Goodbye! Have a nice day.
 
 ---------------
 
-**🚀 How to Run**
+## 🚀 How to Run
 
 1.Clone the repository or download this folder:
 
@@ -73,7 +73,7 @@ python chatbot.py
 
 ----------------
 
-**🎥 Demo Video**
+## 🎥 Demo Video
 👉 [Link to demo video – You can upload to YouTube or LinkedIn and paste here]
 
 👨‍💻 Author: A Gokul Krishna
@@ -86,7 +86,7 @@ python chatbot.py
 
 -------------
 
-**🔖 Hashtags:**
+## 🔖 Hashtags:
 #CodSoft #ArtificialIntelligence #Python #Chatbot #RuleBasedAI #InternshipProject #AI #SimpleChatbot
 
 --------------
