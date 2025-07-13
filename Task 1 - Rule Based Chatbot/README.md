@@ -91,5 +91,5 @@ python chatbot.py
 
 --------------
 
-### Special thanks to **CodSoft** for the opportunity to gain hands-on experience in AI through practical and creative tasks.
+### Special thanks to ## CodSoft for the opportunity to gain hands-on experience in AI through practical and creative tasks.
 
