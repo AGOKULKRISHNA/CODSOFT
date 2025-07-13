@@ -71,14 +71,15 @@ The book dataset is stored in the database.db SQLite file. You can explore it us
 
 --------------------------------------------
 
-**👨‍💻 Author**
+## 👨‍💻 Author
+
 A Gokul Krishna 
 
 📧 Email: juug24bcait44162@jainuniversity.ac.in
 
 🔗 GitHub: https://github.com/AGOKULKRISHNA
 
-🔗 LinkedIn: [your LinkedIn profile link]
+🔗 LinkedIn: https://www.linkedin.com/in/a-gokul-krishna-62ba92331/
 
 ----------------------------------------------
 
