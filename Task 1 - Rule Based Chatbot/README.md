@@ -76,7 +76,11 @@ python chatbot.py
 ## 🎥 Demo Video
 👉 [Link to demo video – You can upload to YouTube or LinkedIn and paste here]
 
-👨‍💻 Author: A Gokul Krishna
+----------------
+
+## 👨‍💻 Author
+
+ A Gokul Krishna
 
 📧 Email: juug24bcait44162@jainuniversity.ac.in
 
