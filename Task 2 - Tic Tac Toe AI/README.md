@@ -1,4 +1,4 @@
-# Task 2 – Tic Tac Toe AI 🎮🧠
+## Task 2 – Tic Tac Toe AI 🎮🧠
 
 This project is a part of my Artificial Intelligence Internship at CodSoft. In this task, I developed a Python-based Tic Tac Toe game where the computer opponent uses the **Minimax algorithm** to play optimally. The game runs in the terminal and allows a human user to play against an intelligent AI.
 
@@ -77,7 +77,7 @@ Winner: AI (O)
 ```
 ------------------------
 
-**🚀 How to Run**
+## 🚀 How to Run
 
 **1.Clone the repository or download the project folder:**
 
@@ -97,13 +97,15 @@ python tictactoe.py
 
 ----------------------------
 
-**📹 Demo Video**
+## 📹 Demo Video
 
 👉 [Coming Soon – Add YouTube or LinkedIn video link here]
 
 ---------------------------
 
-**👨‍💻 Author:** A Gokul Krishna 
+## 👨‍💻 Author
+
+ A Gokul Krishna 
 
 📧 Email: juug24bcait44162@jainuniversity.ac.in
 
@@ -113,13 +115,13 @@ python tictactoe.py
 
 -----------------------------
 
-**🔖 Hashtags**
+## 🔖 Hashtags
 
 #CodSoft #ArtificialIntelligence #Python #TicTacToe #Minimax #UnbeatableAI #TerminalGame #Internship
 
 -----------------------------
 
-***Special thanks to CodSoft for providing a hands-on learning opportunity through real-world AI projects.***
+## Special thanks to CodSoft for providing a hands-on learning opportunity through real-world AI projects.
 
 
 
